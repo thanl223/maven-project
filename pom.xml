@@ -61,8 +61,8 @@
 				<configuration>
 					<deploymentType>cloudhub</deploymentType>
 					<muleVersion>3.8.2</muleVersion>
-					<username>TimTest230</username>
-					<password>Af34$$dsfdnr</password>
+					<username>TimTest231</username>
+					<password>MyTestPa$$1</password>
 					<workerType>Micro</workerType>
 					<redeploy>true</redeploy>
 					<environment>Production</environment>
